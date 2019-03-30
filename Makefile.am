@@ -37,8 +37,6 @@ SUBDIRS = \
 	letterbox \
 	logomanager \
 	mediadownloader \
-	merlinepg \
-	merlinepgcenter \
 	merlinmusicplayer \
 	mosaic \
 	moviecut \
@@ -52,7 +50,6 @@ SUBDIRS = \
 	ofdb \
 	orfat \
 	orfteletext \
-	partnerbox \
 	permanentclock \
 	porncenter \
 	primetimemanager \
